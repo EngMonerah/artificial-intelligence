@@ -4,8 +4,11 @@ AI Project about Stroke Prediction
 Group Members :
 
 Jouri Alanazi (Leader)
+
 Renad Alsubaie
+
 Monerah Alsubaie
+
 Supervised By :
 
 Dr. Manal Binkhonain
